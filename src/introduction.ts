@@ -58,7 +58,12 @@ enum Color {
 }
 
 let myColor: Color = Color.Green;
-console.log(myColor); // Output: 1
+console.log(myColor);
+
+
+
+
+
 
 
 
